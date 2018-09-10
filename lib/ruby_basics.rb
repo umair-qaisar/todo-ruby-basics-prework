@@ -10,7 +10,7 @@ def argue(ok)
  return ok
 end
 
-def greeting
+def greeting(ok, no)
 
 end
 
